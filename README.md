@@ -1,6 +1,7 @@
 **Restaurant Landing Page : GERICHT**
 
 Technology Used: HTML, CSS, JavaScript
+
 Frameworks: ReactJS
 
 
