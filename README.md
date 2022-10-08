@@ -1,10 +1,10 @@
-#Restaurant Landing Page : GERICHT
+**Restaurant Landing Page : GERICHT**
 
 Technology Used: HTML, CSS, JavaScript
 Frameworks: ReactJS
 
 
-#Sections of the Website:
+**Sections of the Website**:
 1. Home
 2. About
 3. Menu
@@ -12,7 +12,7 @@ Frameworks: ReactJS
 5. Awards
 6. Contact
 
-Some of the Screenshots of the Project:
+**Some of the Screenshots of the Project:**
 
 ![Aroma Website](https://user-images.githubusercontent.com/67815775/194719697-4ea5b7e8-7069-4721-81f9-4b81d1e0c8a6.png)
 
@@ -21,27 +21,27 @@ Some of the Screenshots of the Project:
 
 
 
-#Made Reponsive for 3 Sizes:
+**Made Reponsive for 3 Sizes:**
 - 2000px
 - 1150px
 - 650px
 
 
-#Challenges Faced: 
+**Challenges Faced:** 
 - Advanced CSS has to be used in order to set images.
 - Getting out data from the files using React.
 - Use of useState
 - Use of other ReactJS Hooks
 
-#How I go with the Challenges
+**How I go with the Challenges**
 - Documentation helped a lot
 - React Official Documentation helped me alot while making of this project
 
 
-#Future Scope of Project
+**Future Scope of Project**
 - Can be Used by restaurants in order to get more customers
 
-#More to Add
+**More to Add**
 - A feature to order food from restaurant via other vendors directly on the website
 - A video of the restaurant 
 - Adding A photo gallery
@@ -52,7 +52,7 @@ Some of the Screenshots of the Project:
 Give A STAR if you like the project
 
 
-#Want to Contribute?
+**Want to Contribute?**
 - Give it a star
 - Fork the repo
 - Work on the feature
