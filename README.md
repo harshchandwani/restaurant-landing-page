@@ -15,6 +15,7 @@ It has all the necessary information of the restaurant, the menu, the history an
 🛠 How we built it
 
 JavaScript : For Making clean UI
+
 ReactJs: For it's awesome features
 
 
@@ -26,8 +27,11 @@ The main challenge came up when I have to fetch data from the file to the webpag
 💪 Accomplishments that we're proud of
 
 Finally able to achieve a great Website that works well on all sizes.
+
 Sat for straight 9 hours to complete the project solo.
+
 Didn't lose any hope, even when I was unable to solve the problem.
+
 I just love the UI of the project.
 
 
@@ -35,6 +39,7 @@ I just love the UI of the project.
 
 
 Learned and Practice ReactJs- advanced tools and optimized way to work with.
+
 Well, revised my CSS a lot more than I expected.
 
 
@@ -42,12 +47,16 @@ Well, revised my CSS a lot more than I expected.
 
 
 - A feature to order food from restaurant via other vendors directly on the website
+
 - A video of the restaurant 
+
 - Adding A photo gallery
+
 
 SCREENSHOT:
 
 ![Aroma Website2](https://user-images.githubusercontent.com/67815775/194719699-e0eac124-4679-4ebe-95fd-b6f1adc0ac36.png)
+
 ![Aroma Website3](https://user-images.githubusercontent.com/67815775/194719703-c72f21a6-cbad-45c2-9400-b3009860e63e.png)
 
 
@@ -55,7 +64,9 @@ SCREENSHOT:
 **Made Reponsive for 3 Sizes:**
 
 - 2000px
+
 - 1150px
+
 - 650px
 
 
@@ -68,6 +79,9 @@ Give A STAR if you like the project
 
 
 - Give it a star
+
 - Fork the repo
+
 - Work on the feature
+
 - Add all the things you added in the comments while sending a Pull Request
